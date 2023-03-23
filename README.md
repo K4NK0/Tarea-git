@@ -56,6 +56,7 @@ print(animales.count("loro")) # cuenta la cantidad de loros
 [Enlace a web pizzeria](https://k4nk0.github.io/Pizzeria/)
 
 [Enlace a informacion](informacion.md) 
+
 [Enlace a instalacion](instalacion.md) 
 
 [google](https://google.es)
